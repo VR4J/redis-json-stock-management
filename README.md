@@ -1,6 +1,6 @@
 # redis-json-stock-management
 
-Describing blogpost: https://blog.vreijsenj.nl/2022/xxxxxx
+Describing blogpost: https://blog.vreijsenj.nl/2022/03/29/preview-to-redis-om-spring-using-redis-json
 
 ## Technologies
 * Java 17
